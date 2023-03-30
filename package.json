@@ -1,0 +1,24 @@
+{
+  "name": "ebac-modulo-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QA-ThalitaOyara/Ebac-modulo-20.git"
+  },
+  "keywords": [],
+  "author": "Thalita Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QA-ThalitaOyara/Ebac-modulo-20/issues"
+  },
+  "homepage": "https://github.com/QA-ThalitaOyara/Ebac-modulo-20#readme",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "sinon": "^15.0.2"
+  }
+}
